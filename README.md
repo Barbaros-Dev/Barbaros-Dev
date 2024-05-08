@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmet Esad Kocamış and I'm a front-end developer</h2>
+<h2 align="left">Hi 👋! My name is Ahmet Esad Kocamış and I'm a full-stack developer</h2>
 
 ###
 
