@@ -41,8 +41,6 @@
   <a href="https://discord.com/users/708579930979565588" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
-  </a>
   <a href="https://stackoverflow.com/users/19310005/barbarossa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="25" alt="stackoverflow logo"  />
   </a>
